@@ -19,7 +19,7 @@ namespace ConsoleApplication1
 
         public bool OnMap(Point point)
         {
-            //we have this option to do or easier option that fallow
+            //we have this option to do or easier option that fallo
             //  bool inBounds = point.X >= 0 && point.X < Width && point.Y >= 0 && point.Y < Height;
             //  return inBounds;
             return point.X >= 0 && point.X < Width &&
